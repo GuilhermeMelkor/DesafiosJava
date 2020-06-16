@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DesafioSegundaSemana.iml" filepath="$PROJECT_DIR$/DesafioSegundaSemana.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GerenciadorTimesFutebol/GerenciadorTimesFutebol.iml" filepath="$PROJECT_DIR$/GerenciadorTimesFutebol/GerenciadorTimesFutebol.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MediaModaMediana/MediaModaMediana.iml" filepath="$PROJECT_DIR$/MediaModaMediana/MediaModaMediana.iml" />
+    </modules>
+  </component>
+</project>
